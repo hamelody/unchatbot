@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+pandas
+openpyxl
+python-docx
+python-pptx
+faiss-cpu
+openai
+numpy
+azure-storage-blob

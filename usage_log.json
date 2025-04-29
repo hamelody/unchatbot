@@ -1,0 +1,110 @@
+[
+  {
+    "time": "2025-04-29 15:43",
+    "prompt_tokens": 462,
+    "completion_tokens": 247,
+    "total_tokens": 709
+  },
+  {
+    "time": "2025-04-29 15:43",
+    "prompt_tokens": 462,
+    "completion_tokens": 289,
+    "total_tokens": 751
+  },
+  {
+    "time": "2025-04-29 16:04",
+    "prompt_tokens": 464,
+    "completion_tokens": 18,
+    "total_tokens": 482
+  },
+  {
+    "time": "2025-04-29 16:04",
+    "prompt_tokens": 462,
+    "completion_tokens": 18,
+    "total_tokens": 480
+  },
+  {
+    "time": "2025-04-29 16:04",
+    "prompt_tokens": 463,
+    "completion_tokens": 18,
+    "total_tokens": 481
+  },
+  {
+    "time": "2025-04-29 16:05",
+    "prompt_tokens": 461,
+    "completion_tokens": 351,
+    "total_tokens": 812
+  },
+  {
+    "time": "2025-04-29 16:06",
+    "prompt_tokens": 463,
+    "completion_tokens": 280,
+    "total_tokens": 743
+  },
+  {
+    "time": "2025-04-29 16:06",
+    "prompt_tokens": 463,
+    "completion_tokens": 344,
+    "total_tokens": 807
+  },
+  {
+    "time": "2025-04-29 16:06",
+    "prompt_tokens": 468,
+    "completion_tokens": 259,
+    "total_tokens": 727
+  },
+  {
+    "time": "2025-04-29 16:08",
+    "prompt_tokens": 468,
+    "completion_tokens": 18,
+    "total_tokens": 486
+  },
+  {
+    "time": "2025-04-29 16:08",
+    "prompt_tokens": 467,
+    "completion_tokens": 352,
+    "total_tokens": 819
+  },
+  {
+    "time": "2025-04-29 16:08",
+    "prompt_tokens": 468,
+    "completion_tokens": 18,
+    "total_tokens": 486
+  },
+  {
+    "time": "2025-04-29 16:08",
+    "prompt_tokens": 468,
+    "completion_tokens": 358,
+    "total_tokens": 826
+  },
+  {
+    "time": "2025-04-29 16:09",
+    "prompt_tokens": 486,
+    "completion_tokens": 18,
+    "total_tokens": 504
+  },
+  {
+    "time": "2025-04-29 16:10",
+    "prompt_tokens": 486,
+    "completion_tokens": 18,
+    "total_tokens": 504
+  },
+  {
+    "time": "2025-04-29 16:10",
+    "prompt_tokens": 486,
+    "completion_tokens": 18,
+    "total_tokens": 504
+  },
+  {
+    "time": "2025-04-29 16:25",
+    "prompt_tokens": 477,
+    "completion_tokens": 56,
+    "total_tokens": 533
+  },
+  {
+    "time": "2025-04-29 16:25",
+    "prompt_tokens": 477,
+    "completion_tokens": 58,
+    "total_tokens": 535
+  }
+]
